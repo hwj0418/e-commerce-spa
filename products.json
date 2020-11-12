@@ -1,32 +1,37 @@
 [
   {
-    "title": "product A",
+    "title": "Spaceman A",
     "id": "product_a",
-    "description": "This is a demo product",
-    "price": "100"
+    "description": "This is a Spaceman",
+    "price": "100",
+    "image":"/images/spaceman.jpg"
   },
   {
-    "title": "product B",
+    "title": "Spaceman B",
     "id": "product_b",
-    "description": "This is a demo product",
-    "price": "100"
+    "description": "This is a Spaceman",
+    "price": "100",
+    "image":"/images/spaceman.jpg"
   },
   {
-    "title": "product C",
+    "title": "Spaceman C",
     "id": "product_b",
-    "description": "This is a demo product",
-    "price": "100"
+    "description": "This is a Spaceman",
+    "price": "100",
+    "image":"/images/spaceman.jpg"
   },
   {
-    "title": "product D",
+    "title": "Spaceman D",
     "id": "product_b",
-    "description": "This is a demo product",
-    "price": "100"
+    "description": "This is a Spaceman",
+    "price": "100",
+    "image":"/images/spaceman.jpg"
   },
   {
-    "title": "product E",
+    "title": "Spaceman E",
     "id": "product_b",
-    "description": "This is a demo product",
-    "price": "100"
+    "description": "This is a Spaceman",
+    "price": "100",
+    "image":"/images/spaceman.jpg"
   }
 ]
