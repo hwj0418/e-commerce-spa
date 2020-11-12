@@ -1,0 +1,32 @@
+[
+  {
+    "title": "product A",
+    "id": "product_a",
+    "description": "This is a demo product",
+    "price": "100"
+  },
+  {
+    "title": "product B",
+    "id": "product_b",
+    "description": "This is a demo product",
+    "price": "100"
+  },
+  {
+    "title": "product C",
+    "id": "product_b",
+    "description": "This is a demo product",
+    "price": "100"
+  },
+  {
+    "title": "product D",
+    "id": "product_b",
+    "description": "This is a demo product",
+    "price": "100"
+  },
+  {
+    "title": "product E",
+    "id": "product_b",
+    "description": "This is a demo product",
+    "price": "100"
+  }
+]
