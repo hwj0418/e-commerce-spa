@@ -26,10 +26,8 @@ export default function Home() {
               <img src={product.image} alt={`Preview of ${product.title}`} />
               <h3>{product.title}</h3>
               <p>{product.description}</p>
-              <p>${product.price}</p>
-              <a href="something" class="button">
-                Buy Now!
-              </a>
+              <p>{product.price}</p>
+              <button className={styles.button}>Buy Now!</button>
             </div>
           );
         })}

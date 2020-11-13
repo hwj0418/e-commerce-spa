@@ -1,37 +1,38 @@
 [
   {
     "title": "Spaceman A",
-    "id": "product_a",
+    "id": "0",
     "description": "This is a Spaceman",
-    "price": "100",
+    "created_time": "2020, Nov 13",
+    "detail":"",
     "image":"/images/spaceman.jpg"
   },
   {
     "title": "Spaceman B",
-    "id": "product_b",
+    "id": "1",
     "description": "This is a Spaceman",
-    "price": "100",
+    "created_time": "2020, Nov 13",
     "image":"/images/spaceman.jpg"
   },
   {
     "title": "Spaceman C",
-    "id": "product_b",
+    "id": "2",
     "description": "This is a Spaceman",
-    "price": "100",
+    "created_time": "2020, Nov 13",
     "image":"/images/spaceman.jpg"
   },
   {
     "title": "Spaceman D",
-    "id": "product_b",
+    "id": "3",
     "description": "This is a Spaceman",
-    "price": "100",
+    "created_time": "2020, Nov 13",
     "image":"/images/spaceman.jpg"
   },
   {
     "title": "Skeen girl",
-    "id": "product_b",
+    "id": "4",
     "description": "⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄",
-    "price": "100",
+    "created_time": "2020, Nov 13",
     "image":"/images/skeen1.jpg"
   }
 ]
